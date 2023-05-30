@@ -1,4 +1,4 @@
-# DV-Lab
+# DV-Lab - Seeking the art in the decentralized world. :mag_right:
 
 ## About Us
 Our team is made up of developers and researchers from VietNam. We are passionate about exploring the possibilities of decentralized technologies and building applications that can make a real impact on people's lives.
@@ -6,7 +6,7 @@ Our team is made up of developers and researchers from VietNam. We are passionat
 ## What We Do
 At our organization, we focus on researching and developing cutting-edge web3 and blockchain applications that can help bring about a more decentralized and transparent world. Some of our key areas of focus include:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**1. Polkadot, Substrate, Near, Solana, Ethereum, ICON development**
+&nbsp;&nbsp;&nbsp;&nbsp;**1. Polkadot, Substrate, Near, Solana, Ethereum, Cosmos**
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2. Smart contract development**
 
@@ -23,6 +23,9 @@ If you have any questions or would like to learn more about our organization, pl
 - **Email**: tranhuyducseven@gmail.com
 - **LinkedIn** : [@tranhuyducseven](https://www.linkedin.com/in/tranhuyducseven/)
 
-### We would love to hear from you! :v:
-### Seeking the art in decentralized world. :mag_right:
+We would love to hear from you! :v:
 
+## Highlight projects:
+1. ***Zuni***: **A PLATFORM FOR PRIVACY PRESERVING ELECTRONIC CERTIFICATION**
+  - Document: [zuni-docs](https://dv-lab.github.io/zuni-docs/)
+  - Website: [zuni-client](https://zuni-client.vercel.app/)
