@@ -1,5 +1,11 @@
 # DV-Lab - Seeking the art in the decentralized world. :mag_right:
 
+## Highlight projects:
+1. ***Zuni***: **A PLATFORM FOR PRIVACY PRESERVING ELECTRONIC CERTIFICATION**
+  - Document: [zuni-docs](https://dv-lab.github.io/zuni-docs/)
+  - Website: [zuni-client](https://zuni-client.vercel.app/)
+
+
 ## About Us
 Our team is made up of developers and researchers from VietNam. We are passionate about exploring the possibilities of decentralized technologies and building applications that can make a real impact on people's lives.
 
@@ -25,7 +31,3 @@ If you have any questions or would like to learn more about our organization, pl
 
 We would love to hear from you! :v:
 
-## Highlight projects:
-1. ***Zuni***: **A PLATFORM FOR PRIVACY PRESERVING ELECTRONIC CERTIFICATION**
-  - Document: [zuni-docs](https://dv-lab.github.io/zuni-docs/)
-  - Website: [zuni-client](https://zuni-client.vercel.app/)
