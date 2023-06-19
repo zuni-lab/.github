@@ -2,7 +2,7 @@
 
 ## Highlight projects:
 1. ***Zuni***: **A PLATFORM FOR PRIVACY PRESERVING ELECTRONIC CERTIFICATION**
-  - Document: [zuni-docs](https://dv-lab.github.io/zuni-docs/)
+  - Document: [zuni-docs](https://dvlab-document.vercel.app/docs/intro)
   - Website: [zuni-client](https://zuni-client.vercel.app/)
 
 
