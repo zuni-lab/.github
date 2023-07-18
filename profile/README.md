@@ -1,9 +1,9 @@
 # DV-Lab - Seeking the art in the decentralized world. :mag_right:
 
 ## Highlight projects:
-1. ***Zuni***: **A PLATFORM FOR PRIVACY PRESERVING ELECTRONIC CERTIFICATION**
-  - Document: [zuni-docs](https://dvlab-document.vercel.app/docs/intro)
-  - Website: [zuni-client](https://zuni-client.vercel.app/)
+### 🌟 ZUNI: **Empowering Your Identity, Safeguarding Privacy**
+  - Document: [dvlab-document.zuni](https://dvlab-document.vercel.app/docs/intro)
+  - Website: [wearedvlab.systems.zuni](https://www.wearedvlab.systems)
 
 
 ## About Us
@@ -12,7 +12,7 @@ Our team is made up of developers and researchers from VietNam. We are passionat
 ## What We Do
 At our organization, we focus on researching and developing cutting-edge web3 and blockchain applications that can help bring about a more decentralized and transparent world. Some of our key areas of focus include:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**1. Polkadot, Substrate, Near, Solana, Ethereum, Cosmos**
+&nbsp;&nbsp;&nbsp;&nbsp;**1. Polkadot, Substrate, Near, Solana, Ethereum, Cosmos, now Flow**
 
 &nbsp;&nbsp;&nbsp;&nbsp;**2. Smart contract development**
 
