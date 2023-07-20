@@ -2,7 +2,7 @@
 
 ## Highlight projects:
 ### 🌟 ZUNI: **Empowering Your Identity, Safeguarding Privacy**
-  - Document: [dvlab-document.zuni](https://dvlab-document.vercel.app/docs/intro)
+  - Document: [dvlab-document.zuni](https://dvlab-document.vercel.app/docs/overview)
   - Website: [wearedvlab.systems.zuni](https://www.wearedvlab.systems)
 
 
