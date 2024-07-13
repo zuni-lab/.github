@@ -1,8 +1,6 @@
-# Zuni-Lab - Seeking the art in the decentralized world. :mag_right:
+# ZUNI Laboratory - Seeking the art in the decentralized world. :mag_right:
 
-## Highlight projects:
-### 🌟 ZUNI: **Empowering Your Identity, Safeguarding Privacy**
-  - Portfolio: [Flow hackathon season 2](https://devfolio.co/projects/zuni-6403)
+>> Website: [zuni-lab.github.io](https://zuni-lab.github.io/)
 
 
 ## About Us
@@ -18,6 +16,10 @@ At our organization, we focus on researching and developing cutting-edge web3 an
 &nbsp;&nbsp;&nbsp;&nbsp;**3. Dapp development**
 
 &nbsp;&nbsp;&nbsp;&nbsp;**4. Cryptography, ZK-Proofs, MPC, DeFi**
+
+## Highlight projects:
+### 🌟 ZUNI: **Empowering Your Identity, Safeguarding Privacy**
+  - Portfolio: [Flow hackathon season 2](https://devfolio.co/projects/zuni-6403)
 
 ## Our Goals
 Our primary goal is to build innovative applications that can help drive the adoption of web3 and blockchain technologies. We believe that decentralized technologies have the potential to revolutionize industries and make the world a better place, and we are committed to helping make that vision a reality.
