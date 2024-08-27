@@ -18,7 +18,7 @@ At our organization, we focus on researching and developing cutting-edge web3 an
 &nbsp;&nbsp;&nbsp;&nbsp;**4. Cryptography, ZK-Proofs, MPC, DeFi**
 
 ## Highlight projects:
-### 🧩 Zuni Smart Vault: **Smart Vaults, Smarter Fundraising. Control who gets rewarded**
+### 🧩 ZUNI - Smart Vault: **Smart Vaults, Smarter Fundraising. Control who gets rewarded**
   - Post: [Onchain Summer Buildathon](https://base.mirror.xyz/p_A3ZxaBUEcpWwTf9_Yg-jnlOro8m8Ypc8LEDnA_ZRk)
   - Devfolio: [Onchain Summer Buildathon](https://devfolio.co/projects/zuni-smart-vault-b039)
   - Repo: [zuni-lab/zuni-smart-vault](https://github.com/zuni-lab/zuni-smart-vault)
