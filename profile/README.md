@@ -1,10 +1,9 @@
-# ZUNI Laboratory - Seeking the art in the decentralized world. :mag_right:
-
->> Website: [zuni-lab.github.io](https://zuni-lab.github.io/)
-
+# ZUNI Laboratory - Seeking the art in the decentralized world. :rocket:
 
 ## About Us
 ZUNI Laboratoryis made up of engineers, researchers, and artists, all united by a shared passion for leveraging the power of decentralized technologies. We are committed to pushing the boundaries of what's possible and creating applications that enrich and enhance people's lives.
+
+![ZUNI Laboratory](./bg.png)
 
 ## What We Do
 At our organization, we focus on researching and developing cutting-edge web3 and blockchain applications that can help bring about a more decentralized and transparent world. Some of our key areas of focus include:
