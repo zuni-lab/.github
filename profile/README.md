@@ -38,7 +38,7 @@ Our primary goal is to build innovative applications that can help drive the ado
 ## Contact Us :mailbox_closed:
 If you have any questions or would like to learn more about our organization, please feel free to reach out to us at 
 
-- **Email**: [tranhuyducseven@gmail.com](mailto:tranhuyducseven@gmail.com)
+- **Email**: [0xzuni.lab@gmail.com](mailto:0xzuni.lab@gmail.com)
 
 We would love to hear from you! :v:
 
